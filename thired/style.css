@@ -1,0 +1,62 @@
+body{
+    /* background-image: url("https://img.freepik.com/free-photo/vintage-grunge-blue-concrete-texture-wall-background-with-vignette_1258-28373.jpg?t=st=1714394485~exp=1714398085~hmac=07552865684f19331f3b33fb50617c07a554e2edfd2fbfaa122a277334d0b1da&w=996"); */
+    background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+    background-repeat: no-repeat;
+    color: aliceblue;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+.animalhead{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(22, 22, 23);
+    /* background-image: url("https://img.freepik.com/free-photo/blue-concrete-wall-textures-background_74190-6504.jpg?t=st=1714394844~exp=1714398444~hmac=247a1baf070e75a731c3187c889a7ee0785167ab44a3ec4862cedc601b2bd0b3&w=996"); */
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #7486e9 0%, #922696 100%);
+    
+    
+    
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 30px 10px;
+    /* border-radius: 15px;  */
+}
+.animalmarq{
+    margin-top: 25px;
+}
+.amphibiansex{
+    font-size: 60px;
+    font-weight: 40px;
+    text-align: center;
+}
+.animalmar img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: 40px;
+    /* border: 2px solid black; */
+}
+.amphibiansimg img{
+    width: 500px;
+    height: 400px;
+    border-radius: 50px;
+}
+.amphibiansbody{
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    margin: 25px;
+}
+.amphibianspara{
+    font-size: 25px;
+    /* font-weight: 40px; */
+    margin-left: 20px;
+    /* text-align: center; */
+}
